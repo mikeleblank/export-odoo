@@ -140,7 +140,6 @@ Libre para uso personal y comercial.
 ## 👨‍💻 Autor
 **Desarrollado por:** Miguel Blanco  
 🌐 [miguelblanco.ar](https://miguelblanco.ar)  
-📧 contacto@miguelblanco.ar  
 📦 Compatible con Python ≥ 3.9
 
 ---
